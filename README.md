@@ -1,7 +1,7 @@
 Chat Client
 ==============
 
-End to end encrypted voice and text chat's
+End to end encrypted voice and text chats
 
 Features:
 ----
